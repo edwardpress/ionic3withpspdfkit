@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/transition/pspdf__popup_window_exit.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/transition/pspdf__popup_window_exit.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/transition/pspdf__popup_window_enter.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/transition/pspdf__popup_window_enter.xml"
+    }
+]

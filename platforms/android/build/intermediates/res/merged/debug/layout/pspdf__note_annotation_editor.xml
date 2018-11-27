@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ pspdf__note_annotation_editor.xml
+  ~
+  ~   PSPDFKit
+  ~
+  ~   Copyright © 2014-2018 PSPDFKit GmbH. All rights reserved.
+  ~
+  ~   THIS SOURCE CODE AND ANY ACCOMPANYING DOCUMENTATION ARE PROTECTED BY INTERNATIONAL COPYRIGHT LAW
+  ~   AND MAY NOT BE RESOLD OR REDISTRIBUTED. USAGE IS BOUND TO THE PSPDFKIT LICENSE AGREEMENT.
+  ~   UNAUTHORIZED REPRODUCTION OR DISTRIBUTION IS SUBJECT TO CIVIL AND CRIMINAL PENALTIES.
+  ~   This notice may not be removed from this file.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:focusable="true"
+              android:focusableInTouchMode="true"
+              android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/pspdf__note_annotation_editor_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:navigationIcon="@drawable/pspdf__ic_arrow_back"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        tools:background="#003861"/>
+
+    <ScrollView
+        android:id="@+id/pspdf__note_annotation_editor_contents_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:fillViewport="true"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp"
+        tools:background="#0099FF">
+
+        <com.pspdfkit.ui.LocalizedEditText
+            android:id="@+id/pspdf__note_annotation_editor_contents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:gravity="top|start"
+            android:inputType="textAutoCorrect|text|textMultiLine"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            tools:text="This is the note editor. Feel free to create some new stickies!"/>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/pspdf__note_annotation_editor_pickers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:visibility="gone"
+        tools:background="#440099ff"
+        tools:layout_height="200dp"
+        tools:visibility="visible"/>
+
+</LinearLayout>

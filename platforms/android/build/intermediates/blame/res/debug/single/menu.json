@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/menu/pspdf__menu_pdf_outline_view.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/menu/pspdf__menu_pdf_outline_view.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/menu/pspdf__menu_note_annotation_editor_options.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/menu/pspdf__menu_note_annotation_editor_options.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/menu/pspdf__menu_note_annotation_editor_toolbar.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/menu/pspdf__menu_note_annotation_editor_toolbar.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/menu/pspdf__menu_document_info_toolbar.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/menu/pspdf__menu_document_info_toolbar.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/menu/pspdf__menu_document_editor_save.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/menu/pspdf__menu_document_editor_save.xml"
+    }
+]

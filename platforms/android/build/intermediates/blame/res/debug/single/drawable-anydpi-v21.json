@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_certificate_add.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_certificate_add.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_circle.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_circle.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_eraser.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_eraser.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_status_cancelled.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_status_cancelled.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_help.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_help.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_close.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_close.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_insert.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_insert.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_certificate_valid.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_certificate_valid.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_status_completed.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_status_completed.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_star.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_star.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_highlight.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_highlight.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__file_icon_tag.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__file_icon_tag.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__file_icon_graph.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__file_icon_graph.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_edit_annotations.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_edit_annotations.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_image.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_image.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_cross.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_cross.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_export_pages.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_export_pages.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_status_accepted.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_status_accepted.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_delete.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_delete.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_undo.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_undo.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_outline_view_information.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_outline_view_information.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__uvv_itv_player_play.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__uvv_itv_player_play.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_outline_view_annotations.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_outline_view_annotations.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_freetext_callout.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_freetext_callout.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_status_rejected.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_status_rejected.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_share.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_share.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf_ic_content_cut.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf_ic_content_cut.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__uvv_on_error.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__uvv_on_error.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_polyline.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_polyline.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_settings.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_settings.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_rotate_page.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_rotate_page.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_note.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_note.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_widget.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_widget.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_camera.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_camera.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_line.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_line.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_new_paragraph.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_new_paragraph.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_info.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_info.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_outline.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_outline.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_content_copy.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_content_copy.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_edit.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_edit.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__uvv_player_scale_btn.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__uvv_player_scale_btn.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__uvv_player_scale_out_btn.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__uvv_player_scale_out_btn.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_note.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_note.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_outline_view_bookmarks.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_outline_view_bookmarks.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_check.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_check.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_status_clear.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_status_clear.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_richmedia.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_richmedia.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_comment.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_comment.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_freetext.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_freetext.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_stylus.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_stylus.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_search.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_search.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__uvv_stop_btn.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__uvv_stop_btn.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_size.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_size.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_stamp.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_stamp.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_input_error.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_input_error.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_outline_view_outline.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_outline_view_outline.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_duplicate_page.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_duplicate_page.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_squiggly.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_squiggly.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_key.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_key.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_sound.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_sound.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_paragraph.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_paragraph.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__uvv_player_player_btn.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__uvv_player_player_btn.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__file_icon_push_pin.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__file_icon_push_pin.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_thumbnails.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_thumbnails.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_cancel.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_cancel.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_right_arrow.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_right_arrow.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_print_large.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_print_large.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_square.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_square.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_underline.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_underline.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_link.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_link.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_polygon.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_polygon.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_import_document.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_import_document.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_print.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_print.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_outline_view_attachments.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_outline_view_attachments.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__file_icon_paperclip.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__file_icon_paperclip.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_redo.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_redo.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_more_horizontal.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_more_horizontal.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_right_pointer.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_right_pointer.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__note_icon_circle.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__note_icon_circle.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_drag_handle.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_drag_handle.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_signature.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_signature.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_strikeout.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_strikeout.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_hearing.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_hearing.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_done.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_done.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/drawable-anydpi-v21/pspdf__ic_thumbnails_active.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/drawable-anydpi-v21/pspdf__ic_thumbnails_active.xml"
+    }
+]

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.2_15a74f28f1c775c0901b17b807e3daa10cc7520f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/annotations-13.0_fa1ba28d277735c8ac5d93de985062d594c657e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.2_bfc89a61629ae0d8971a64261fe66cd037cd6c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_4fa565cb830eae61fd402bfd24a227a230005d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/.gradle/caches/modules-2/files-2.1/com.facebook.device.yearclass/yearclass/2.0.0/b8a4c46c6a7dae57baf47808ca2882133c898360/yearclass-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b8a4c46c6a7dae57baf47808ca2882133c898360">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/yearclass-2.0.0_6c7c87a9674f4f4de266bb94c88de715f2f84774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/reactive-streams-1.0.1_c531e04dc01e40069c17212106401f92180c9697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.2_123f587ca04963b3ff8291289eb5785a1f1c13a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4befee80d8b0a345baa102aae333d82b619405b5">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.pspdfkit-pspdfkit-4.8.1_f5a7419658fb4c2c1c2b025d6b82ca43032867d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.2_6373a530e217d4c50ccd0f4c2919982d785b47b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.2_9d3abf6eecad6ab10e9e2da9d76ce36e84418978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.2_f508328749554723b73d896e7a61135a9c643e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_9b5bd87f9af753c30746627dbb97fbeca25d6362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_fc9634eb5aa32f9e5a99835dafaa26839316b238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.2_230eb3760c675e1cd20e71eafe65438334c9233d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.20/1ce9e25c74aade0aa039cce459f2906a8c8ffc8e/kotlin-stdlib-1.2.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1ce9e25c74aade0aa039cce459f2906a8c8ffc8e">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.2.20_c8cfb23b0757e784d6ebc0fd2e87235d50798590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.2_001c25c21346cda8e11e860cf7f1e35db4d4228e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.2_951b87205eab6116cb1a9c6466ca8ccec2e3d424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.2_565a09d3de2ed190efa0e15f89a273a548365fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.2_47f959834c91beef742a800eb2443d552e089c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/c6a633c63607f09f77f424b5c52522a7607cedae/rxjava-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c6a633c63607f09f77f424b5c52522a7607cedae">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/rxjava-2.1.3_8f6af9caec2b47b38f7b807aa011908f9bfeb464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.2_5a0ee6307d0828c28557622e3d878422521d3d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.3.0/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.3.0-debug_ebb3930ffce342857fb72f36cff7fa9986e5de97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.2_ebe3d1470f7840bba00832797319c3c0a3f11205.jar" />
+    </item>
+
+</items>

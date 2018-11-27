@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/pspdf__dark_settings_mode_picker_item.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/color/pspdf__dark_settings_mode_picker_item.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/pspdf__settings_mode_picker_item.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/color/pspdf__settings_mode_picker_item.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/pspdf__signature_signer_chip_avatar_tint_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/color/pspdf__signature_signer_chip_avatar_tint_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/pspdf__signature_signer_chip_avatar_background_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/color/pspdf__signature_signer_chip_avatar_background_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/pspdf__signature_signer_chip_avatar_background.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/color/pspdf__signature_signer_chip_avatar_background.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.2/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.2/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/res/merged/debug/color/pspdf__note_annotation_editor_icon_color.xml",
+        "source": "/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/build/intermediates/exploded-aar/com.pspdfkit/pspdfkit/4.8.1/res/color/pspdf__note_annotation_editor_icon_color.xml"
+    }
+]

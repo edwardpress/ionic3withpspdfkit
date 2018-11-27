@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ pspdf__outline_bookmarks_list_item.xml
+  ~
+  ~   PSPDFKit
+  ~
+  ~   Copyright © 2016-2018 PSPDFKit GmbH. All rights reserved.
+  ~
+  ~   THIS SOURCE CODE AND ANY ACCOMPANYING DOCUMENTATION ARE PROTECTED BY INTERNATIONAL COPYRIGHT LAW
+  ~   AND MAY NOT BE RESOLD OR REDISTRIBUTED. USAGE IS BOUND TO THE PSPDFKIT LICENSE AGREEMENT.
+  ~   UNAUTHORIZED REPRODUCTION OR DISTRIBUTION IS SUBJECT TO CIVIL AND CRIMINAL PENALTIES.
+  ~   This notice may not be removed from this file.
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:foreground="?selectableItemBackground"
+             android:minHeight="60dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="8dp"
+        >
+
+        <com.pspdfkit.ui.LocalizedTextView
+            android:id="@+id/pspdf__bookmark_list_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="13sp"
+            tools:text="My favorite bookmark"/>
+
+        <com.pspdfkit.ui.LocalizedTextView
+            android:id="@+id/pspdf__bookmark_list_item_subtext"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="13sp"
+            tools:text="Page 12"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/pspdf__bookmark_list_drag_handle"
+        android:layout_width="24dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@null"
+        android:scaleType="center"
+        tools:tint="?android:attr/textColorSecondary"
+        tools:src="@drawable/pspdf__ic_drag_handle"
+        />
+
+
+    <!-- The divider is added to the layout so it moves together with dragged items. -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom"
+        android:background="?android:attr/listDivider"/>
+
+</FrameLayout>

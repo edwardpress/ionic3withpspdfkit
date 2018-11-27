@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  AndroidManifest.xml
+  ~
+  ~   PSPDFKit
+  ~
+  ~   Copyright © 2014-2018 PSPDFKit GmbH. All rights reserved.
+  ~
+  ~   THIS SOURCE CODE AND ANY ACCOMPANYING DOCUMENTATION ARE PROTECTED BY INTERNATIONAL COPYRIGHT LAW
+  ~   AND MAY NOT BE RESOLD OR REDISTRIBUTED. USAGE IS BOUND TO THE PSPDFKIT LICENSE AGREEMENT.
+  ~   UNAUTHORIZED REPRODUCTION OR DISTRIBUTION IS SUBJECT TO CIVIL AND CRIMINAL PENALTIES.
+  ~   This notice may not be removed from this file.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.pspdfkit"
+    android:versionName="4.8.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application android:largeHeap="true" >
+
+        <!-- Printing pdf documents -->
+        <activity
+            android:name="com.pspdfkit.document.printing.PrintActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" />
+
+        <!-- Content provider used for initializing the library. -->
+        <provider
+            android:name="com.pspdfkit.PSPDFKitInitializationProvider"
+            android:authorities="${applicationId}.com.pspdfkit.PSPDFKitInitializationProvider"
+            android:exported="false" />
+        <provider
+            android:name="com.pspdfkit.media.AssetsContentProvider"
+            android:authorities="${applicationId}.pdf.assets"
+            android:exported="false" />
+        <provider
+            android:name="com.pspdfkit.document.sharing.DocumentSharingProvider"
+            android:authorities="${applicationId}.pdf.share"
+            android:exported="true"
+            android:grantUriPermissions="true"
+            tools:ignore="ExportedContentProvider" />
+    </application>
+
+</manifest>

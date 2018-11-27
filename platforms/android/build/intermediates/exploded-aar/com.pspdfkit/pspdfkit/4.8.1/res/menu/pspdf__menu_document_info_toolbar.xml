@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~   Copyright © 2018 PSPDFKit GmbH. All rights reserved.
+  ~
+  ~   THIS SOURCE CODE AND ANY ACCOMPANYING DOCUMENTATION ARE PROTECTED BY INTERNATIONAL COPYRIGHT LAW
+  ~   AND MAY NOT BE RESOLD OR REDISTRIBUTED. USAGE IS BOUND TO THE PSPDFKIT LICENSE AGREEMENT.
+  ~   UNAUTHORIZED REPRODUCTION OR DISTRIBUTION IS SUBJECT TO CIVIL AND CRIMINAL PENALTIES.
+  ~   This notice may not be removed from this file.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/pspdf__document_info_edit"
+        android:icon="@drawable/pspdf__ic_edit"
+        android:orderInCategory="1"
+        android:title="@string/pspdf__edit"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/pspdf__document_info_done"
+        android:icon="@drawable/pspdf__ic_done"
+        android:orderInCategory="1"
+        android:title="@string/pspdf__done"
+        app:showAsAction="always"/>
+
+</menu>

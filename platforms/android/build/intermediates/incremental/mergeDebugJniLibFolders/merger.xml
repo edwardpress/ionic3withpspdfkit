@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/libs"><file name="PSPDFKit-4.8.1.aar" path="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/libs/PSPDFKit-4.8.1.aar"/></source></dataSet><dataSet config="debug"><source path="/Users/edwardcjk/Desktop/ionicPrint/printApp/platforms/android/src/debug/jniLibs"/></dataSet></merger>

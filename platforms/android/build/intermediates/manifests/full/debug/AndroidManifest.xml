@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.ionic.starter"
+    android:hardwareAccelerated="true"
+    android:versionCode="1"
+    android:versionName="0.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true" >
+        <activity
+            android:name="io.ionic.starter.MainActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
+            android:label="@string/activity_name"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter android:label="@string/launcher_name" >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="pspdfkit_license_key"
+            android:value="r3nvXVWFWeMO2gOG-z3mSiQAqJdUso3RUEMX-qWaIRxxOu42sOMvb7Vuq8pb2ETA1HqxmJST2tpnb3_6-bGsk7zbog6Wzl16h_CGmfrg3qlpd1QiM4j3zPA_8oYhYETVaLuOyszbaVie_1Gs8IhRQr3-ZIEjS3yB4G1C-58HwpW8-fz1rGBPDXxHkueNnhCzpMhqUpelkRar0nE8tt5I-CplMbYS7vomLnlFwPpSxgYMIEZ7hICRH62urs8Jq5O9DrtE6zM1cjiVondHyyzC_7Qw2jwE2PKAAdRhLZFM7BQwQc3QHk4qQJQblXcpQt2XjLKE-Wll7ZpgJrnVnDaJoXVyYfePj3b2EaLy5UoigadsiDFscguv6PY_V0g2Uah-z3maRRqIxX7zjqcbP00wXIwbNCt1OCA3AmgtFm-p7sHsVHUCvwaHFmeMrXHUbuKf" />
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.2" /> <!-- Printing pdf documents -->
+        <activity
+            android:name="com.pspdfkit.document.printing.PrintActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" /> <!-- Content provider used for initializing the library. -->
+        <provider
+            android:name="com.pspdfkit.PSPDFKitInitializationProvider"
+            android:authorities="io.ionic.starter.com.pspdfkit.PSPDFKitInitializationProvider"
+            android:exported="false" />
+        <provider
+            android:name="com.pspdfkit.media.AssetsContentProvider"
+            android:authorities="io.ionic.starter.pdf.assets"
+            android:exported="false" />
+        <provider
+            android:name="com.pspdfkit.document.sharing.DocumentSharingProvider"
+            android:authorities="io.ionic.starter.pdf.share"
+            android:exported="true"
+            android:grantUriPermissions="true" />
+    </application>
+
+</manifest>

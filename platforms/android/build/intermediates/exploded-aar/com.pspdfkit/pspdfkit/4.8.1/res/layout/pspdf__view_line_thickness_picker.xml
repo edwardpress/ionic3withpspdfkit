@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ pspdf__view_line_thickness_picker.xml
+  ~
+  ~   PSPDFKit
+  ~
+  ~   Copyright © 2014-2018 PSPDFKit GmbH. All rights reserved.
+  ~
+  ~   THIS SOURCE CODE AND ANY ACCOMPANYING DOCUMENTATION ARE PROTECTED BY INTERNATIONAL COPYRIGHT LAW
+  ~   AND MAY NOT BE RESOLD OR REDISTRIBUTED. USAGE IS BOUND TO THE PSPDFKIT LICENSE AGREEMENT.
+  ~   UNAUTHORIZED REPRODUCTION OR DISTRIBUTION IS SUBJECT TO CIVIL AND CRIMINAL PENALTIES.
+  ~   This notice may not be removed from this file.
+  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:orientation="horizontal"
+              android:paddingBottom="@dimen/pspdf__picker_padding"
+              android:paddingLeft="@dimen/pspdf__picker_padding"
+              android:paddingRight="@dimen/pspdf__picker_padding"
+              android:paddingTop="24dp"
+    >
+
+    <com.pspdfkit.ui.LocalizedTextView
+        android:id="@+id/pspdf__lineThicknessLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pspdf__picker_thickness"
+        android:textSize="18sp"/>
+
+    <SeekBar
+        android:id="@+id/pspdf__lineThicknessSeekBar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:max="40"
+        android:maxHeight="16dp"
+        android:minHeight="16dp"/>
+
+    <com.pspdfkit.ui.LocalizedTextView
+        android:id="@+id/pspdf__lineThicknessTextView"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        tools:text="12pt"/>
+
+</LinearLayout>
